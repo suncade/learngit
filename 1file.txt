@@ -1,2 +1,1 @@
-1file dev2
-dev3local
+1file dev3
